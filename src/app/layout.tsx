@@ -5,10 +5,8 @@ import "./globals.css";
 const poppins = Poppins({ weight: ['400', '600', '700'], subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: "Aplicação - Dona do Plantão",
-  description: "Formulário de aplicação para a Dona do Plantão",
-  category: "Aplicação",
-  keywords: ["Aplicação", "Dona do Plantão"],
+  title: "Linktree",
+  description: "Links dona do Plantão",
 };
 
 export default function RootLayout({
