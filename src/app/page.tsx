@@ -19,6 +19,11 @@ export default function Page() {
       href: 'https://guia.donadoplantao.com.br/?utm_campaign=gis&utm_medium=insta&utm_source=org&utm_content=links-importantes'
     },
     {
+      alt: 'Formação Dona com conhecimento prático de +20 anos',
+      imagePath: 'formacao',
+      href: 'https://formacao.donadoplantao.com.br/v1?utm_campaign=apl&utm_medium=insta&utm_source=org&utm_content=links-importante'
+    },
+    {
       alt: 'Canal no Youtube',
       imagePath: 'yt',
       href: 'https://www.youtube.com/@donadoplantao'
