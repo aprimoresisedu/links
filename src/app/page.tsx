@@ -21,7 +21,7 @@ export default function Page() {
     {
       alt: 'Formação Dona com conhecimento prático de +20 anos',
       imagePath: 'formacao',
-      href: 'https://formacao.donadoplantao.com.br/v1?utm_campaign=apl&utm_medium=insta&utm_source=org&utm_content=links-importante'
+      href: 'https://formacao.donadoplantao.com.br/v4?utm_campaign=apl&utm_medium=insta&utm_source=org&utm_content=links-importante'
     },
     {
       alt: 'Canal no Youtube',
