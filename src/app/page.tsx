@@ -4,6 +4,11 @@ export default function Page() {
 
   const linktreeList = [
     {
+      alt: 'Formação Dona com conhecimento prático de +20 anos',
+      imagePath: 'formacao',
+      href: 'https://formacao.donadoplantao.com.br/v4?utm_campaign=apl&utm_medium=insta&utm_source=org&utm_content=links-importante'
+    },
+    {
       alt: 'Aplicação para a nossa Pós em Urgência e Emergência com Ênfase em Inovação',
       imagePath: 'apl',
       href: 'https://aplicacao.donadoplantao.com.br/v1?utm_campaign=apl&utm_medium=insta&utm_source=org&utm_content=links-importantes'
@@ -17,11 +22,6 @@ export default function Page() {
       alt: 'Guia: Intercorrência Segura valor promocional de R$10',
       imagePath: 'guia',
       href: 'https://guia.donadoplantao.com.br/?utm_campaign=gis&utm_medium=insta&utm_source=org&utm_content=links-importantes'
-    },
-    {
-      alt: 'Formação Dona com conhecimento prático de +20 anos',
-      imagePath: 'formacao',
-      href: 'https://formacao.donadoplantao.com.br/v4?utm_campaign=apl&utm_medium=insta&utm_source=org&utm_content=links-importante'
     },
     {
       alt: 'Canal no Youtube',
