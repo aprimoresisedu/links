@@ -13,11 +13,11 @@ export default function Page() {
       imagePath: 'apl',
       href: 'https://aplicacao.donadoplantao.com.br/v1?utm_campaign=apl&utm_medium=insta&utm_source=org&utm_content=links-importantes'
     },
-    {
-      alt: 'Seminário: Tomada de Decisão na Intercorrência',
-      imagePath: 'seminario',
-      href: 'https://seminario.donadoplantao.com.br/v2-org?utm_campaign=apl&utm_medium=insta&utm_source=org&utm_content=links-importantes'
-    },
+    // {
+    //   alt: 'Seminário: Tomada de Decisão na Intercorrência',
+    //   imagePath: 'seminario',
+    //   href: 'https://seminario.donadoplantao.com.br/v2-org?utm_campaign=apl&utm_medium=insta&utm_source=org&utm_content=links-importantes'
+    // },
     {
       alt: 'Guia: Intercorrência Segura valor promocional de R$10',
       imagePath: 'guia',
